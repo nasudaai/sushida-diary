@@ -16,7 +16,7 @@ case "$filename " in
   5*)
     border=5000
     ;;
-  10:) 
+  10*) 
     border=10000
     ;;
 esac
